@@ -16,7 +16,7 @@
         int intExperiance = Convert.ToInt32(experiance);
         if (double.TryParse(currency, out double doubleCurrency))
         {
-            Console.WriteLine("Gold Coins (parsed from string): 150.3333333");
+            //Console.WriteLine("Gold Coins (parsed from string): 150.3333333");
         }
 
         Console.WriteLine($"Character Name: {name}");

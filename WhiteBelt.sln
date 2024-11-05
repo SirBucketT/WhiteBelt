@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini-Kata 1", "Mini-Kata 1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini-Kata 2 - Variable Practice with Type Conversion", "Mini-Kata 2 - Variable Practice with Type Conversion\Mini-Kata 2 - Variable Practice with Type Conversion.csproj", "{A262D4E4-D625-4115-865D-2181D35D25EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini-Kata 3 - Conditionals Challenge", "Mini-Kata 3 - Conditionals Challenge\Mini-Kata 3 - Conditionals Challenge.csproj", "{E9C3377E-A10B-4DB1-A3BA-0EF24C31F82E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{A262D4E4-D625-4115-865D-2181D35D25EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A262D4E4-D625-4115-865D-2181D35D25EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A262D4E4-D625-4115-865D-2181D35D25EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9C3377E-A10B-4DB1-A3BA-0EF24C31F82E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9C3377E-A10B-4DB1-A3BA-0EF24C31F82E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9C3377E-A10B-4DB1-A3BA-0EF24C31F82E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9C3377E-A10B-4DB1-A3BA-0EF24C31F82E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
