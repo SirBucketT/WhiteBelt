@@ -29,7 +29,7 @@
         }
         else
         {
-            Console.WriteLine("Attack missed.");
+            Console.WriteLine("Attack missed, enemy attacks you and you died.");
         }
         }
     }    
