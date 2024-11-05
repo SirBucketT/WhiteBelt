@@ -1,0 +1,15 @@
+C:\Projects\WhiteBelt\Mini-Kata 3 - Conditionals Challenge\bin\Debug\net8.0\Mini-Kata 3 - Conditionals Challenge.exe
+C:\Projects\WhiteBelt\Mini-Kata 3 - Conditionals Challenge\bin\Debug\net8.0\Mini-Kata 3 - Conditionals Challenge.deps.json
+C:\Projects\WhiteBelt\Mini-Kata 3 - Conditionals Challenge\bin\Debug\net8.0\Mini-Kata 3 - Conditionals Challenge.runtimeconfig.json
+C:\Projects\WhiteBelt\Mini-Kata 3 - Conditionals Challenge\bin\Debug\net8.0\Mini-Kata 3 - Conditionals Challenge.dll
+C:\Projects\WhiteBelt\Mini-Kata 3 - Conditionals Challenge\bin\Debug\net8.0\Mini-Kata 3 - Conditionals Challenge.pdb
+C:\Projects\WhiteBelt\Mini-Kata 3 - Conditionals Challenge\obj\Debug\net8.0\Mini-Kata 3 - Conditionals Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\WhiteBelt\Mini-Kata 3 - Conditionals Challenge\obj\Debug\net8.0\Mini-Kata 3 - Conditionals Challenge.AssemblyInfoInputs.cache
+C:\Projects\WhiteBelt\Mini-Kata 3 - Conditionals Challenge\obj\Debug\net8.0\Mini-Kata 3 - Conditionals Challenge.AssemblyInfo.cs
+C:\Projects\WhiteBelt\Mini-Kata 3 - Conditionals Challenge\obj\Debug\net8.0\Mini-Kata 3 - Conditionals Challenge.csproj.CoreCompileInputs.cache
+C:\Projects\WhiteBelt\Mini-Kata 3 - Conditionals Challenge\obj\Debug\net8.0\Mini-Kata 3 - Conditionals Challenge.sourcelink.json
+C:\Projects\WhiteBelt\Mini-Kata 3 - Conditionals Challenge\obj\Debug\net8.0\Mini-Kata 3 - Conditionals Challenge.dll
+C:\Projects\WhiteBelt\Mini-Kata 3 - Conditionals Challenge\obj\Debug\net8.0\refint\Mini-Kata 3 - Conditionals Challenge.dll
+C:\Projects\WhiteBelt\Mini-Kata 3 - Conditionals Challenge\obj\Debug\net8.0\Mini-Kata 3 - Conditionals Challenge.pdb
+C:\Projects\WhiteBelt\Mini-Kata 3 - Conditionals Challenge\obj\Debug\net8.0\Mini-Kata 3 - Conditionals Challenge.genruntimeconfig.cache
+C:\Projects\WhiteBelt\Mini-Kata 3 - Conditionals Challenge\obj\Debug\net8.0\ref\Mini-Kata 3 - Conditionals Challenge.dll
