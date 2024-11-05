@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mini-Kata 2 - Variable Practice with Type Conversion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8a1a52e5f9b7e21a19eee1d3d8a7dc012e5868f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43a2cb49dca1a56f8c3f25b70b1d0f02f6a330b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mini-Kata 2 - Variable Practice with Type Conversion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mini-Kata 2 - Variable Practice with Type Conversion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Projects\WhiteBelt\Mini-Kata 2 - Variable Practice with Type Conversion\bin\Debug\net8.0\Mini-Kata 2 - Variable Practice with Type Conversion.exe
+C:\Projects\WhiteBelt\Mini-Kata 2 - Variable Practice with Type Conversion\bin\Debug\net8.0\Mini-Kata 2 - Variable Practice with Type Conversion.deps.json
+C:\Projects\WhiteBelt\Mini-Kata 2 - Variable Practice with Type Conversion\bin\Debug\net8.0\Mini-Kata 2 - Variable Practice with Type Conversion.runtimeconfig.json
+C:\Projects\WhiteBelt\Mini-Kata 2 - Variable Practice with Type Conversion\bin\Debug\net8.0\Mini-Kata 2 - Variable Practice with Type Conversion.dll
+C:\Projects\WhiteBelt\Mini-Kata 2 - Variable Practice with Type Conversion\bin\Debug\net8.0\Mini-Kata 2 - Variable Practice with Type Conversion.pdb
+C:\Projects\WhiteBelt\Mini-Kata 2 - Variable Practice with Type Conversion\obj\Debug\net8.0\Mini-Kata 2 - Variable Practice with Type Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\WhiteBelt\Mini-Kata 2 - Variable Practice with Type Conversion\obj\Debug\net8.0\Mini-Kata 2 - Variable Practice with Type Conversion.AssemblyInfoInputs.cache
+C:\Projects\WhiteBelt\Mini-Kata 2 - Variable Practice with Type Conversion\obj\Debug\net8.0\Mini-Kata 2 - Variable Practice with Type Conversion.AssemblyInfo.cs
+C:\Projects\WhiteBelt\Mini-Kata 2 - Variable Practice with Type Conversion\obj\Debug\net8.0\Mini-Kata 2 - Variable Practice with Type Conversion.csproj.CoreCompileInputs.cache
+C:\Projects\WhiteBelt\Mini-Kata 2 - Variable Practice with Type Conversion\obj\Debug\net8.0\Mini-Kata 2 - Variable Practice with Type Conversion.sourcelink.json
+C:\Projects\WhiteBelt\Mini-Kata 2 - Variable Practice with Type Conversion\obj\Debug\net8.0\Mini-Kata 2 - Variable Practice with Type Conversion.dll
+C:\Projects\WhiteBelt\Mini-Kata 2 - Variable Practice with Type Conversion\obj\Debug\net8.0\refint\Mini-Kata 2 - Variable Practice with Type Conversion.dll
+C:\Projects\WhiteBelt\Mini-Kata 2 - Variable Practice with Type Conversion\obj\Debug\net8.0\Mini-Kata 2 - Variable Practice with Type Conversion.pdb
+C:\Projects\WhiteBelt\Mini-Kata 2 - Variable Practice with Type Conversion\obj\Debug\net8.0\Mini-Kata 2 - Variable Practice with Type Conversion.genruntimeconfig.cache
+C:\Projects\WhiteBelt\Mini-Kata 2 - Variable Practice with Type Conversion\obj\Debug\net8.0\ref\Mini-Kata 2 - Variable Practice with Type Conversion.dll
