@@ -1,0 +1,15 @@
+C:\Projects\WhiteBelt\Kata 4 - Loops\bin\Debug\net8.0\Kata 4 - Loops.exe
+C:\Projects\WhiteBelt\Kata 4 - Loops\bin\Debug\net8.0\Kata 4 - Loops.deps.json
+C:\Projects\WhiteBelt\Kata 4 - Loops\bin\Debug\net8.0\Kata 4 - Loops.runtimeconfig.json
+C:\Projects\WhiteBelt\Kata 4 - Loops\bin\Debug\net8.0\Kata 4 - Loops.dll
+C:\Projects\WhiteBelt\Kata 4 - Loops\bin\Debug\net8.0\Kata 4 - Loops.pdb
+C:\Projects\WhiteBelt\Kata 4 - Loops\obj\Debug\net8.0\Kata 4 - Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\WhiteBelt\Kata 4 - Loops\obj\Debug\net8.0\Kata 4 - Loops.AssemblyInfoInputs.cache
+C:\Projects\WhiteBelt\Kata 4 - Loops\obj\Debug\net8.0\Kata 4 - Loops.AssemblyInfo.cs
+C:\Projects\WhiteBelt\Kata 4 - Loops\obj\Debug\net8.0\Kata 4 - Loops.csproj.CoreCompileInputs.cache
+C:\Projects\WhiteBelt\Kata 4 - Loops\obj\Debug\net8.0\Kata 4 - Loops.sourcelink.json
+C:\Projects\WhiteBelt\Kata 4 - Loops\obj\Debug\net8.0\Kata 4 - Loops.dll
+C:\Projects\WhiteBelt\Kata 4 - Loops\obj\Debug\net8.0\refint\Kata 4 - Loops.dll
+C:\Projects\WhiteBelt\Kata 4 - Loops\obj\Debug\net8.0\Kata 4 - Loops.pdb
+C:\Projects\WhiteBelt\Kata 4 - Loops\obj\Debug\net8.0\Kata 4 - Loops.genruntimeconfig.cache
+C:\Projects\WhiteBelt\Kata 4 - Loops\obj\Debug\net8.0\ref\Kata 4 - Loops.dll
