@@ -33,6 +33,13 @@
                 playerHealth = healAbility + playerHealth;
                 Console.WriteLine($"Here uses heal and heals its HP by 20!");
             }
+
+            if (playerHealth <= 0)
+            {
+                Console.WriteLine("Hero has been defeated by the almighty Goblin!");
+                gameIsOver = true;
+                return;
+            }
             
             if(giblinHealth <= 0)
             {
@@ -47,7 +54,6 @@
                 Console.WriteLine(". . .");
                 playerHealth = playerHealth - 10;
             }
-            
         }
     }
 }
