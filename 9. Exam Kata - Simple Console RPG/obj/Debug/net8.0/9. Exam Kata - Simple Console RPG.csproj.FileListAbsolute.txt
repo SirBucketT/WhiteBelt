@@ -1,0 +1,15 @@
+C:\Projects\WhiteBelt\9. Exam Kata - Simple Console RPG\bin\Debug\net8.0\9. Exam Kata - Simple Console RPG.exe
+C:\Projects\WhiteBelt\9. Exam Kata - Simple Console RPG\bin\Debug\net8.0\9. Exam Kata - Simple Console RPG.deps.json
+C:\Projects\WhiteBelt\9. Exam Kata - Simple Console RPG\bin\Debug\net8.0\9. Exam Kata - Simple Console RPG.runtimeconfig.json
+C:\Projects\WhiteBelt\9. Exam Kata - Simple Console RPG\bin\Debug\net8.0\9. Exam Kata - Simple Console RPG.dll
+C:\Projects\WhiteBelt\9. Exam Kata - Simple Console RPG\bin\Debug\net8.0\9. Exam Kata - Simple Console RPG.pdb
+C:\Projects\WhiteBelt\9. Exam Kata - Simple Console RPG\obj\Debug\net8.0\9. Exam Kata - Simple Console RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\WhiteBelt\9. Exam Kata - Simple Console RPG\obj\Debug\net8.0\9. Exam Kata - Simple Console RPG.AssemblyInfoInputs.cache
+C:\Projects\WhiteBelt\9. Exam Kata - Simple Console RPG\obj\Debug\net8.0\9. Exam Kata - Simple Console RPG.AssemblyInfo.cs
+C:\Projects\WhiteBelt\9. Exam Kata - Simple Console RPG\obj\Debug\net8.0\9. Exam Kata - Simple Console RPG.csproj.CoreCompileInputs.cache
+C:\Projects\WhiteBelt\9. Exam Kata - Simple Console RPG\obj\Debug\net8.0\9. Exam Kata - Simple Console RPG.sourcelink.json
+C:\Projects\WhiteBelt\9. Exam Kata - Simple Console RPG\obj\Debug\net8.0\9. Exam Kata - Simple Console RPG.dll
+C:\Projects\WhiteBelt\9. Exam Kata - Simple Console RPG\obj\Debug\net8.0\refint\9. Exam Kata - Simple Console RPG.dll
+C:\Projects\WhiteBelt\9. Exam Kata - Simple Console RPG\obj\Debug\net8.0\9. Exam Kata - Simple Console RPG.pdb
+C:\Projects\WhiteBelt\9. Exam Kata - Simple Console RPG\obj\Debug\net8.0\9. Exam Kata - Simple Console RPG.genruntimeconfig.cache
+C:\Projects\WhiteBelt\9. Exam Kata - Simple Console RPG\obj\Debug\net8.0\ref\9. Exam Kata - Simple Console RPG.dll
