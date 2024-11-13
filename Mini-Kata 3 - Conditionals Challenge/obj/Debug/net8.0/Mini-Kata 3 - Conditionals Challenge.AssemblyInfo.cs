@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mini-Kata 3 - Conditionals Challenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e08c35622cd46713fa297e182fa5ddf2319c8b87")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bab7df6265aba0af002ec5acc693eb0fdf30e0e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mini-Kata 3 - Conditionals Challenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mini-Kata 3 - Conditionals Challenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,8 +9,8 @@
 
         Console.WriteLine("Welcome to the simple console RPG game!");
         
-        bool gameIsOver = false;
-        while(playerHealth > 0)
+        bool isGameOver = false;
+        while(!isGameOver)
         {
             Console.WriteLine($"Hero's health: {playerHealth}");
             Console.WriteLine($"Goblin's health: {giblinHealth}");
@@ -37,15 +37,14 @@
             if (playerHealth <= 0)
             {
                 Console.WriteLine("Hero has been defeated by the almighty Goblin!");
-                gameIsOver = true;
-                return;
+                isGameOver = true;
+                //return;
             }
-            
-            if(giblinHealth <= 0)
+            else if(giblinHealth <= 0)
             {
                 Console.WriteLine("Congratulations! Hero has defeated the Goblin!");
-                gameIsOver = true;
-                return;
+                isGameOver = true;
+                //return;
             }
             else
             {
